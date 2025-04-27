@@ -1,5 +1,16 @@
 # ImageClassification
 
+Instruksi Penggunaan
+Disarankan untuk menjalankan kode ini di Google Colab untuk menghindari masalah dengan versi TensorFlow dan dependensi lainnya.
+
+Mengapa Google Colab?
+Kompatibilitas TensorFlow: Sudah disediakan versi TensorFlow yang kompatibel.
+
+Akses GPU: Dapat menggunakan GPU gratis untuk mempercepat pelatihan.
+
+Lingkungan Siap Pakai: Tidak perlu mengatur instalasi atau dependensi.
+
+
 ## Mengunduh Dataset dari Kaggle Menggunakan API
 
 Untuk mengunduh dataset langsung dari Kaggle menggunakan API, ikuti langkah-langkah di bawah ini.
